@@ -1,8 +1,8 @@
 ---
 external: false
-title: "Basic markdown style guide"
-description: "You can author content using the familiar markdown syntax you already know. All basic markdown syntax is supported."
-date: 2022-11-02
+title: "This House Believes Wi-Fi Should Become Universal and Free"
+description: "."
+date: 2023-01-30
 ---
 
 Markdown is powered by [Markdoc](https://markdoc.dev/). This is an example post to demonstrate all the basic markdown syntax. You can author content using the familiar markdown syntax you already know.
