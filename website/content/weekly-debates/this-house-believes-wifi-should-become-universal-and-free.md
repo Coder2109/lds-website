@@ -5,7 +5,7 @@ description: "."
 date: 2023-01-30
 ---
 
-This house believes Wi-Fi should universal and free.
+This house believes Wi-Fi should become universal and free.
 
 One group should be arguing that Wi-Fi should be made accessible to all people, everywhere, for free.
 
