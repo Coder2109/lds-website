@@ -13,7 +13,7 @@ Here are a couple of my favourite:
 
 ***The Hot Air Balloon Game***
 
-In this game everybody chooses a character to be - fictional or non-fictional - and then have a minute or two to explain their charcter to everyone else playing. You are all on a hot air balloon that is damaged and is falling down because it is too heavy. Only one person can be left on the hot air balloon to survive so you have to try and convice the others playing to keep your character on the hot air balloon. After the introduction, there are multiple rounds, each consisting of arguing why your character should stay on, and then a vote at the end of the round to throw one character off the vote. This is repeated until there are two characters left on the hot air balloon. They have one final debate before all the thrown off characters return and vote for which character should stay on the hot air balloon and win the game.
+In this game everybody chooses a character to be - fictional or non-fictional - and then have a minute or two to explain their charcter to everyone else playing. You are all on a hot air balloon that is damaged and is falling down because it is too heavy. Only one person can be left on the hot air balloon to survive so you have to try and convice the others playing to keep your character on the hot air balloon. After the introduction, there are multiple rounds, each consisting of arguing why your character should stay on, and then a vote at the end of the round to throw one character off the hot air balloon. This is repeated until there are two characters left on the hot air balloon. They have one final debate before all the thrown off characters return and vote for which character should stay on the hot air balloon and win the game.
 
 ***Four Corners***
 
